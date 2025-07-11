@@ -1,64 +1,59 @@
 # Trabajo_final_LP2
 
-## 🔷 1. Título del Proyecto
-**Comparación de precios de productos tecnológicos en Perú utilizando Web Scraping y APIs**
+# 📊 Comparación de Precios de Consolas y Celulares  
+**🇵🇪 Tiendas en Perú vs 🌐 Tiendas Internacionales**
 
-## 🔷 2. Relevancia y Aporte Potencial del Proyecto
-En el contexto actual, los productos tecnológicos como celulares, laptops y tablets son parte fundamental del día a día, tanto para el trabajo, el estudio como para la comunicación. Sin embargo, sus precios varían considerablemente entre distintas tiendas online y plataformas, generando desinformación o decisiones de compra poco eficientes.
+---
 
-Este proyecto busca automatizar la recolección, comparación y análisis de precios de productos tecnológicos disponibles en el mercado peruano, a través de herramientas de web scraping y consulta de APIs públicas. Su relevancia radica en que permite:
+## 🎯 Objetivo del Proyecto
 
-- Facilitar la toma de decisiones informadas por parte del consumidor.
-- Brindar insumos a pequeñas empresas que requieren monitorear a la competencia.
-- Desarrollar habilidades técnicas en scraping, estructuración de datos y APIs.
+Comparar los precios de **consolas de videojuegos** y **celulares de gama alta** entre tiendas peruanas como *La Curacao* y *Hiraoka*, frente a tiendas internacionales mediante el uso de la **API de Google Shopping**.
 
-## 🔷 3. Objetivos del Proyecto
+> 💡 Este análisis busca responder: **¿Dónde conviene más comprar productos tecnológicos: en Perú o en el extranjero?**
 
-### 🎯 Objetivo General
-Construir un sistema automatizado de comparación de precios de productos tecnológicos (celulares, laptops, tablets) a partir de datos extraídos mediante scraping y consulta a APIs.
+---
 
-### 📌 Objetivos Específicos
-- Realizar web scraping en sitios web peruanos de venta de tecnología.
-- Identificar y consumir al menos una API pública que brinde información de productos tecnológicos.
-- Comparar los precios extraídos entre tiendas y productos similares.
-- Estructurar los datos en un formato analizable (DataFrame o base de datos).
-- Documentar adecuadamente el proceso técnico en un repositorio colaborativo.
+## 📌 Relevancia y Aporte
 
-## 🔷 4. Fuentes de Datos a Utilizar
+La adquisición de productos tecnológicos es una inversión considerable. Sin embargo, los consumidores a menudo no cuentan con información clara sobre si conviene más comprar localmente o importar desde el extranjero.
 
-| Tipo de Fuente | Sitio / Recurso               | Tipo de Datos                                            |
-|----------------|-------------------------------|----------------------------------------------------------|
-| Web scraping   | https://hiraoka.com.pe        | Precios y características de laptops, tablets, celulares |
-| Web scraping   | https://curacao.pe            | Información de productos tecnológicos                    |
-| API pública    | A definir  |  |
+Este proyecto:
 
-> **Nota**: Se está en proceso de identificación de la API más adecuada y accesible para el objetivo del proyecto.
+- 🧠 **Informa** al consumidor mediante evidencia basada en precios reales.
+- 🛠️ **Aplica técnicas reales** de programación, scraping y análisis de datos.
+- 🤝 **Fomenta el trabajo en equipo** y el uso de herramientas colaborativas como GitHub.
 
-## 🔷 5. Producto Final Esperado
+---
 
-Repositorio en GitHub con:
+## 🧩 Fuentes de Datos
 
-- Código Python bien documentado (`.py` o `.ipynb`).
-- Archivo `README.md` explicando el proceso y uso del código.
-- Evidencia del trabajo colaborativo (commits, ramas, pull requests).
-- Planificación del scraping y consulta a API.
+| Plataforma         | Método de obtención               |
+|--------------------|----------------------------------|
+| 🟠 **La Curacao**   | Scraping de HTML (celulares y consolas) |
+| 🔵 **Hiraoka**      | Scraping directo con `BeautifulSoup`   |
+| 🌐 **Google Shopping API** | API externa via [SearchAPI.io](https://www.searchapi.io/)     |
 
-Informe final en PDF que detalle:
+---
 
-- Metodología de extracción, limpieza y análisis.
-- Comparación de precios obtenidos.
-- Problemas encontrados y cómo se resolvieron.
+## 📁 Entregables
 
-Presentación oral grupal (20–25 minutos) donde se explique:
+- 📂 Archivos `.csv` con los datos estructurados.
+- 📊 Comparación visual y tabular de precios nacionales e internacionales.
+- 🧾 Código Python en **Jupyter Notebooks**, con documentación.
+- 🗂️ Informe técnico y presentación oral.
+- 🔗 Repositorio GitHub con historial de desarrollo y colaboración.
 
-- La relevancia del proyecto.
-- Cómo se realizó la recolección de datos.
-- Las dificultades técnicas superadas.
+---
 
-## 🔷 6. Integrantes del Grupo
+## 👥 Equipo de Trabajo
 
-| Nombre Completo          | Usuario en GitHub         |
-|--------------------------|---------------------------|
-| Alexander Villanueva     | [alexvilla123](https://github.com/alexvilla123) |
-| Leonardo Quispe Torres   | [SebQuispe](https://github.com/SebQuispe) |
+- 👨‍💻 **Alexander Villanueva**  
+  GitHub: [@alexvilla123](https://github.com/alexvilla123)
+
+- 👨‍💻 **Sebastián Quispe**  
+  GitHub: [@SebQuispe](https://github.com/SebQuispe)
+
+---
+
+> 🚀 Proyecto desarrollado como parte del curso **Lenguaje de Programación 2** – 2025-I
 
