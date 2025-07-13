@@ -7,7 +7,7 @@
 ---
 
 ### 👥 Integrantes del equipo
-- Alexander Vilanueva — [alexvilla123]
+- Alexander Villanueva — [alexvilla123]
 - Sebastián Quispe — [SebQuispe]
 
 ---
