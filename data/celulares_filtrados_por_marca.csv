@@ -1,0 +1,139 @@
+marca,nombre,sku,precio_online,precio_regular
+SAMSUNG,Celular Samsung Galaxy A06 128GB 4GB RAM Negro,133955,369.0,499.0
+SAMSUNG,"Celular Libre Samsung Galaxy A16 6.7"" 128GB 4GB RAM Negro",135180,519.0,699.0
+SAMSUNG,"Celular Libre Samsung A06 6.7"" 64GB 4GB RAM Negro",133954,299.0,399.0
+APPLE,IPhone 13 128GB Medianoche,126285,1999.0,3999.0
+XIAOMI,"Celular Libre Xiaomi Redmi 14C 6.88"" 256GB 4GB RAM Black",134188,399.0,599.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 6.6"" 256GB 8GB RAM Black",135142,749.0,899.0
+XIAOMI,"Celular Libre Xiaomi Redmi 14C 6.88"" 256GB 4GB RAM Green",134189,399.0,599.0
+XIAOMI,"Celular Libre Xiaomi Redmi 14C 6.88"" 256GB 4GB RAM Blue",134190,399.0,599.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 6.6"" 256GB 8GB RAM Ocean Blue",135144,749.0,899.0
+XIAOMI,"Celular Libre Xiaomi Redmi 13X 6.79"" 256GB 8GB RAM Gold",136407,529.0,699.0
+XIAOMI,"Celular Libre Xiaomi Redmi 13X 6.79"" 256GB 8GB RAM Azul",136406,529.0,699.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 6.6"" 256GB 8GB RAM Green",135143,749.0,899.0
+SAMSUNG,"Celular Libre Samsung Galaxy A16 6.7"" 256GB 8GB RAM Negro",134533,719.0,899.0
+XIAOMI,Celular Libre Xiaomi Redmi A5 128GB 4GB RAM Black,135950,319.0,399.0
+XIAOMI,Celular Libre Xiaomi Redmi A5 128GB 4GB RAM Blue,135951,319.0,399.0
+SAMSUNG,"Celular Libre Samsung Galaxy A26 6.7"" 128GB 6GB RAM Negro",135451,929.0,1099.0
+XIAOMI,Celular Libre Xiaomi Redmi A5 128GB 4GB RAM Gold,135952,319.0,399.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO + 5G 6.6"" 256GB 8GB BLACK + Audífonos BUDS 6 Lite Xiaomi",135194,1799.0,1899.0
+APPLE,iPhone 16 Pro Max 256GB Titanio del Desierto,134388,5799.0,7599.0
+MOTOROLA,"Celular Libre Motorola Moto G75 6.78"" 256GB 8GB RAM Gris",135239,899.0,1049.0
+MOTOROLA,"Celular Libre Motorola Razr 50 Ultra 6.9"" 512 GB integrado² UFS 4.0 12GB + 12GB RAMBOOST LPDDR5X RAM Azul",133679,3099.0,4499.0
+MOTOROLA,"Celular Libre Motorola Razr 50 Ultra 6.9"" 512GB 12GB RAM Rosado",136698,3099.0,4499.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24 Ultra 6.8"" 256GB 12GB RAM SM-S928BZKMLTP Titanium Black",131916,3899.0,5299.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO 6.6"" 256GB 8GB RAM OCEAN BLUE",135141,1099.0,1299.0
+APPLE,iPhone 16 Pro 128GB Titanio del Desierto,134840,4899.0,6299.0
+HONOR,Celular Libre Honor X5B 128GB 4GB RAM Ocean Blue,134520,369.0,449.0
+MOTOROLA,Celular Libre Motorola MOTO EDGE 50 256GB 8GB RAM Gris,134290,1399.0,1999.0
+MOTOROLA,"Celular Motorola Moto Edge 60 Pro 6.7"" 512GB 12GB RAM Uva",136319,2399.0,2499.0
+MOTOROLA,"Celular Motorola Moto Edge 60 Pro 6.7"" 512GB 12GB RAM Gris",136318,2399.0,2499.0
+MOTOROLA,"Celular Libre Motorola Moto G05 6.7"" 128GB 4GB RAM Verde",135238,399.0,499.0
+MOTOROLA,"Celular Libre Motorola Moto G15 6.7"" 256GB 4GB RAM Gris",135234,529.0,649.0
+MOTOROLA,"Celular Libre Motorola Razr 50 Ultra 6.9"" 512 GB integrado² UFS 4.0 12GB + 12GB RAMBOOST LPDDR5X RAM Verde",133678,3099.0,4499.0
+SAMSUNG,"Celular Libre Samsung Galaxy A36 6.7"" 256GB 8GB RAM Violeta",135456,1299.0,1649.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 256GB 12GB RAM NAVY",135168,3699.0,4799.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 512GB 12GB RAM NAVY",135171,4149.0,5299.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO 6.6"" 256GB 8GB RAM PURPLE",135140,1099.0,1299.0
+MOTOROLA,"Celular Libre Motorola Razr 50 6.9"" UFS 2.2 de 512 GB5 12GB + 12GB RAM Boost RAM Gris",133677,2699.0,3499.0
+MOTOROLA,Celular Libre Motorola MOTO EDGE 50 256GB 8GB RAM Verde Jaspe,134292,1399.0,1999.0
+APPLE,iPhone 16 Pro 128GB Titanio Negro,134582,4899.0,6299.0
+MOTOROLA,"Celular Libre Motorola Razr 50 6.9"" UFS 2.2 de 512 GB5 12GB + 12GB RAM Boost RAM Naranja",133676,2699.0,3499.0
+APPLE,iPhone 16 Pro 128GB Titanio Natural,134515,4899.0,6299.0
+APPLE,iPhone 16 Pro 128GB Titanio Blanco,134583,4899.0,6299.0
+APPLE,iPhone 16 Pro Max 256GB Titanio Negro,134386,5799.0,7599.0
+APPLE,iPhone 16 Pro Max 256GB Titanio Natural,134389,5799.0,7599.0
+HONOR,"Celular Libre Honor X8C 6.7"" 256GB 8GB RAM Cloud Purple",135082,999.0,1099.0
+HONOR,"Celular Libre Honor X8C 6.7"" 256GB 8GB RAM Marrs Green",135081,999.0,1099.0
+HONOR,"Celular Libre Honor X8C 6.7"" 256GB 8GB RAM Midnight Black",135083,999.0,1099.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO 5G 6.6"" 256GB 8GB Negro",135133,1399.0,1599.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO 5G 6.6"" 256GB 8GB COLOR PURPLE",135135,1399.0,1599.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO 6.6"" 256GB 8GB RAM BLACK",135139,1099.0,1299.0
+SAMSUNG,"Celular Libre Samsung Galaxy A36 6.7"" 128GB 6GB RAM Black",135453,1199.0,1399.0
+SAMSUNG,"Celular Libre Samsung Galaxy A56 6.7"" 256GB 8GB RAM Black",135459,1599.0,1899.0
+HONOR,Celular Libre Honor X5B 128GB 4GB RAM Starry Purple,134521,369.0,449.0
+MOTOROLA,"Celular Libre Motorola Moto G05 6.7"" 128GB 4GB RAM Rojo",135237,399.0,499.0
+SAMSUNG,"Celular Libre Samsung Galaxy A36 6.7"" 128GB 6GB RAM Violeta",135454,1199.0,1399.0
+SAMSUNG,"Celular Libre Samsung Galaxy A56 6.7"" 256GB 8GB RAM Light Pink",135460,1599.0,1899.0
+MOTOROLA,"Celular Libre Motorola Moto G75 6.78"" 256GB 8GB RAM Verde",135241,899.0,1049.0
+SAMSUNG,"Celular Libre Samsung Galaxy A36 6.7"" 256GB 8GB RAM Black",135455,1299.0,1649.0
+HONOR,Celular Libre Honor X5B 128GB 4GB RAM MIDNIGHT BLACK,134519,369.0,449.0
+APPLE,IPhone 16e 128GB Blanco,136195,3199.0,3699.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24 FE 6.7"" 256GB 8GB RAM Black",134406,2349.0,3299.0
+SAMSUNG,"Celular Samsung Galaxy S25 ULTRA 6.9"" 512GB 12GB RAM TITANIUM GRAY",135178,5199.0,6199.0
+APPLE,IPhone 16e 128GB Negro,136194,3199.0,3699.0
+SAMSUNG,"Celular Samsung Galaxy S25 ULTRA 6.9"" 512GB 12GB RAM TITANIUM BLACK",135177,5199.0,6199.0
+MOTOROLA,"Celular Motorola Razr 60 Ultra 6.9"" 1TB 16GB RAM Cafe",136323,5699.0,5999.0
+MOTOROLA,"Celular Motorola Razr 60 Ultra 6.9"" 1TB 16GB RAM Verde",136322,5699.0,5999.0
+MOTOROLA,"Celular Motorola Moto Edge 60 6.7"" 512GB 12GB RAM Verde",136321,1799.0,1899.0
+MOTOROLA,"Celular Motorola Moto Edge 60 6.7"" 512GB 12GB RAM Azul",136320,1799.0,1899.0
+MOTOROLA,"Celular Motorola Moto Edge 60 Fusion 6.7"" 256 GB 8GB RAM Verde",136096,1399.0,1499.0
+MOTOROLA,"Celular Motorola Moto Edge 60 Fusion 6.7"" 256 GB 8GB RAM Rosa",136095,1399.0,1499.0
+HONOR,"Kit Celular Libre Honor 400 Pro 6.7"" 512GB 12GB RAM Midnight Black + Smartwatch Honor Choice 2i",136518,2999.0,3199.0
+HONOR,"Kit Celular Libre Honor 400 Pro 6.7"" 512GB 12GB RAM Lunar Grey + Smartwatch Honor Choice 2i",136519,2999.0,3199.0
+MOTOROLA,"Celular Libre Motorola Moto e15 6.7"" 64GB 2GB RAM Morado",136090,349.0,379.0
+MOTOROLA,"Celular Libre Motorola Moto e15 6.7"" 64GB 2GB RAM Azul",136091,349.0,379.0
+MOTOROLA,"Celular Libre Motorola Moto g15 6.7"" 512GB 4GB RAM Celeste",136093,649.0,899.0
+MOTOROLA,"Celular Libre Motorola Moto g15 6.7"" 512GB 4GB RAM Azul",136092,649.0,899.0
+HONOR,"Kit Celular Libre Honor 400 6.55"" 512GB 12GB RAM Midnight Black + Smartwatch Honor Choice 2i",136515,1899.0,2099.0
+HONOR,"Kit Celular Libre Honor 400 6.55"" 512GB 12GB RAM Meteor Silver + Smartwatch Honor Choice 2i",136516,1899.0,2099.0
+HONOR,"Celular Libre Honor X6C 6.61"" 256GB 6GB RAM Ocean Cyan",136513,569.0,649.0
+HONOR,"Celular Libre Honor X6C 6.61"" 256GB 6GB RAM Moonlight White",136512,569.0,649.0
+HONOR,"Celular Libre Honor X6C 6.61"" 256GB 6GB RAM Midnight Black",136514,569.0,649.0
+MOTOROLA,"Celular Motorola Moto Edge 60 Fusion 6.7"" 256 GB 8GB RAM Azul",136094,1399.0,1499.0
+HONOR,"Celular Libre Honor Magic 7 Lite 6.78"" 512GB 8GB RAM Titanium Black",135078,1499.0,1699.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 256GB 12GB RAM ICYBLUE",135166,3699.0,4799.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24+ 6.7"" 256GB 12GB RAM SM-S926BZKLLTP Onyx Black",131911,4799.0,4799.0
+MOTOROLA,"Celular Libre Motorola Moto G15 6.7"" 256GB 4GB RAM Verde",135235,529.0,649.0
+HONOR,"Celular Libre Honor X7C 6.77"" 256GB 8GB RAM Forest Green",135085,749.0,899.0
+HONOR,"Celular Libre Honor X7C 6.77"" 256GB 8GB RAM Moonlight White",135084,749.0,899.0
+MOTOROLA,"Celular Libre Motorola MOTO EDGE 50 FUSION 6.7"" 256GB 8GB RAM Rosado + Audífonos Moto Buds",133062,1299.0,1599.0
+MOTOROLA,"Celular Libre Motorola MOTO EDGE 50 FUSION 6.7"" 256GB 8GB RAM Verde + Audífonos Moto Buds",133061,1299.0,1599.0
+HONOR,Celular Libre Honor 400 Lite 6.7'' 256GB 12GB RAM Verde,136140,1199.0,1399.0
+SAMSUNG,"Celular Samsung Galaxy S25 ULTRA 6.9"" 512GB 12GB RAM TITANIUM SILVERBLUE",135179,5199.0,6199.0
+MOTOROLA,"Celular Libre Motorola Moto G75 6.78"" 256GB 8GB RAM Azul",135240,899.0,1049.0
+SAMSUNG,"Celular Samsung Galaxy S25 Ultra 6.9"" 256GB 12GB RAM TITANIUM BLACK",135173,4699.0,5699.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO + 5G 6.6"" 256GB 8GB PURPLE",135137,1859.0,1899.0
+SAMSUNG,"Celular Samsung Galaxy S25 6.2"" 128GB 12GB RAM ICYBLUE",135158,2999.0,3899.0
+APPLE,iPhone 16 128GB Verde Azulado,134372,3699.0,4999.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO + 5G 6.6"" 256GB 8GB BLACK",135136,1859.0,1899.0
+APPLE,iPhone 16 Pro 512GB Titanio Blanco,134379,6499.0,8299.0
+MOTOROLA,"Celular Libre Motorola MOTO EDGE 50 PRO 6.7"" 512 GB 12GB RAM Violeta + Audífonos Moto Buds",133059,2499.0,2699.0
+APPLE,iPhone 16 128GB Ultramarino,134371,3899.0,4999.0
+SAMSUNG,"Celular Samsung Galaxy S25 Ultra 6.9"" 256GB 12GB RAM TITANIUM GRAY",135174,4699.0,5699.0
+SAMSUNG,"Celular Libre Samsung S24FE 6.7"" 256GB 8GB RAM Light blue",134405,2349.0,3299.0
+SAMSUNG,"Celular Samsung Galaxy S25 Ultra 6.9"" 256GB 12GB RAM TITANIUM SILVERBLUE",135175,4699.0,5699.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 512GB 12GB RAM ICYBLUE",135170,4149.0,5299.0
+APPLE,iPhone 16 Pro 256GB Titanio Blanco,134907,5399.0,6999.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 512GB 12GB RAM SILVER SHADOW",135172,4149.0,5299.0
+SAMSUNG,"Celular Samsung Galaxy S25+ 6.7"" 256GB 12GB RAM SILVER SHADOW",135169,3699.0,4799.0
+XIAOMI,"Celular Libre Xiaomi Redmi Note 14 PRO + 5G 6.6"" 256GB 8GB FROST BLUE",135138,1859.0,1899.0
+HONOR,"Celular Libre Honor X7C 6.77"" 256GB 8GB RAM Midnight Black",135086,749.0,899.0
+SAMSUNG,"Celular Samsung Galaxy S25 6.2"" 128GB 12GB RAM NAVY",135160,2999.0,3899.0
+MOTOROLA,"Celular Libre Motorola Moto G15 6.7"" 256GB 4GB RAM Naranja",135236,529.0,649.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24+ 6.7"" 512GB 12GB RAM SM-S926BZKMLTP Onyx Black",131915,5299.0,5299.0
+APPLE,iPhone 16 128GB Negro,134368,3699.0,4999.0
+MOTOROLA,"Celular Libre Motorola MOTO EDGE 50 ULTRA 6.7""  512 GB 12GB RAM Negro",133064,3499.0,3699.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24+ 6.7"" 512GB 12GB RAM SM-S926BZVMLTP Cobalt Violet",131913,5299.0,5299.0
+HONOR,"Celular Libre Honor Magic 7 Lite 6.78"" 512GB 8GB RAM Titanium Purple",135080,1499.0,1699.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24 FE 6.7"" 128GB 8GB RAM Black",134407,2049.0,2599.0
+MOTOROLA,"Celular Libre Motorola MOTO EDGE 50 PRO 6.7"" 512 GB 12GB RAM Negro",133058,2499.0,2699.0
+APPLE,iPhone 16 128GB Blanco,134369,3699.0,4999.0
+SAMSUNG,"Celular Libre Samsung Galaxy S24+ 6.7"" 512GB 12GB RAM SM-S926BZAMLTP Marble Gray",131914,5299.0,5299.0
+XIAOMI,Cargador Portatil Xiaomi HYPERCHARGE 212W 25000MAH Gris,136136,359.0,359.0
+XIAOMI,Cargador Portatil Xiaomi 33W 20000MAH Azul,136131,229.0,229.0
+XIAOMI,Cargador Portatil Xiaomi 33W 10000MAH Azul,136133,89.0,89.0
+XIAOMI,Cargador Portatil Xiaomi 165W 10000MAH Gris,136135,159.0,159.0
+SAMSUNG,Cargador de pared Samsung 45 W Black,133471,169.0,169.0
+SAMSUNG,Cargador de pared Samsung 25W,133661,139.0,139.0
+SAMSUNG,Adaptador Samsung 25W White,133624,99.0,99.0
+SAMSUNG,Adaptador Samsung 25W,133623,99.0,99.0
+XIAOMI,Cargador Portátil Xiaomi Redmi 20000mAh 18W PB200LZM,121206,89.0,149.0
+XIAOMI,Cargador portatil Xiaomi P15ZM 10000 MAH -22.5W,135230,79.0,129.0
+XIAOMI,Cargador Portátil Xiaomi P16ZM 10000 MAH 22.5W LITE,135507,89.0,89.0
+XIAOMI,Cargador Portátil Xiaomi PB3018ZM 30000 mAh,134696,139.0,229.0
+XIAOMI,Adaptador de TV Xiaomi Mi TV Stick 4K,129280,259.0,329.0
+XIAOMI,Adaptador Xiaomi Mi TV Stick US Negro MDZ-24-AA,121926,199.0,259.0
+XIAOMI,Cargador Combo Tipo-A Xiaomi MDY-12-EH 67W,130126,109.0,169.0
+XIAOMI,Cargador Combo Tipo-A Xiaomi MDY-11-EZ 33W,130127,79.0,119.0
+XIAOMI,Compresor de Aire Xiaomi Version 2 MJCQB06QW Negro,132959,209.0,259.0
